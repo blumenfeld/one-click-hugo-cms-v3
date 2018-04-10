@@ -1,5 +1,5 @@
 ---
-title: Trying a NEW Headline
+title: Trying a Headline on April 10
 date: 2016-12-17T15:04:10.000Z
 description: >-
   The Coffee Taster’s Flavor Wheel, the official resource used by coffee
